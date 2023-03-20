@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 <h1 align="center">Hi 👋, I'm Hirakyjyoti Talukdar</h1>
 <h3 align="center">A passionate AI and Android Developer</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
+<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hirakjyoti08&label=Profile%20views&color=0e75b6&style=flat" alt="hirakjyoti08" /> </p>
 
