@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+![MasterHead](https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif)
 <h1 align="center">Hi 👋, I'm Hirakyjyoti Talukdar</h1>
 <h3 align="center">A passionate AI and Android Developer</h3>
 <img align="right" alt="coding" width="150" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif">
