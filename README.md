@@ -1,7 +1,13 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 <h1 align="center">Hi 👋, I'm Hirakyjyoti Talukdar</h1>
 <h3 align="center">A passionate AI and Android Developer</h3>
+<img align="right" alt="coding" width="150" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hirakjyoti08&label=Profile%20views&color=0e75b6&style=flat" alt="hirakjyoti08" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hirakjyoti08" alt="hirakjyoti08" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/_hirrrak_" target="blank"><img src="https://img.shields.io/twitter/follow/_hirrrak_?logo=twitter&style=for-the-badge" alt="_hirrrak_" /></a> </p>
 
 - 🌱 I’m currently learning **React Native, Tensor Flow, Django**
 
