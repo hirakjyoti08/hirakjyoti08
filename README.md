@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **React Native, Tensor Flow, Django**
+- 🌱 I’m currently learning **Flutter, Tensor Flow, Django**
 
 - 💬 Ask me about **Kotlin, C++, Python**
 
